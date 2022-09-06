@@ -1,2 +1,2 @@
 #!/bin/bash
-id -un 1000
+echo "hello" $USER
